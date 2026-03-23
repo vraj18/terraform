@@ -219,13 +219,6 @@ terraform destroy
 
 ---
 
-# 📸 Outputs & Screenshots
-
-* Running containers (`docker ps`)
-* Browser output (nginx pages)
-* Terraform plan output
-
----
 
 # ⚠️ Common Issues & Fixes
 
@@ -255,7 +248,7 @@ This lab demonstrates how Terraform can be used to manage infrastructure efficie
 
 # 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** Vraj Borad
 **Course:** Software Lab – Infrastructure as Code
 **Submission:** GitHub Repository
 
